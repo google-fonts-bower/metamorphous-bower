@@ -1,0 +1,17 @@
+{
+    "name": "metamorphous-googlefont",
+    "license": "OFL",
+    "authors": [
+        "James Grieshaber"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/metamorphous-bower.git"
+    },
+    "description": "Metamorphous font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
